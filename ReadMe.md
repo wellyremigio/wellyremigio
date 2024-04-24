@@ -1,5 +1,9 @@
-# 💫 About Me:
-- 📚 I'm a computer science student at the Federal University of Campina Grande<br>- 🌱 I’m currently learning HTML, CSS, JavaScript and Spring Boot<br>- 👩🏼‍💻 My interest are: Front-end and back-end.<br>- 👱🏼‍♀️ Pronouns: she/her
+# 💫 Hello, world! I'm Welly Remígio!
+
+- 📚 I'm a computer science student at the Federal University of Campina Grande<br>
+- 🌱 I’m currently learning HTML, CSS, JavaScript and Spring Boot<br>
+- 👩🏼‍💻 My interest are: Front-end and Back-end<br>
+- 👱🏼‍♀️ Pronouns: she/her
 
 
 ## 🌐 Socials:
